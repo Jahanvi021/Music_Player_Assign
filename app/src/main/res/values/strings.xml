@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mume</string>
+    <string name="search_hint">Search songs</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="library">Library</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="add_to_queue">Add to Queue</string>
+    <string name="add_to_playlist">Add to Playlist</string>
+    <string name="share">Share</string>
+    <string name="see_all">See All</string>
+</resources>
